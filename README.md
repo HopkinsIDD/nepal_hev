@@ -11,4 +11,4 @@ The data folder includes:
 1. The shapefiles used to specify the adminsitrative boundaries used in mapping.
 2. The spatial covariates (population density, elevation and travel time to the nearest city)
 3. The deidentified serosurvey data
-4. The generated data - the predicted seroprevalence across Nepal.
+4. The generated data - the predicted seroprevalence across Nepal, using the three spatial covariates as predictors (preds_all.rds) and the spatial random effects alone (pred_spatial_only.rds).
